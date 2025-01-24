@@ -1,1 +1,1 @@
-some text that conflicts
+some MORE text that conflicts
